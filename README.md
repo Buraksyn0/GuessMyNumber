@@ -16,13 +16,7 @@ A cross-platform mobile application where the user picks a number, and the devic
 * **Custom Components:** Built using reusable components with advanced styling techniques (Style Merging).
 * **Safe Area Views:** Optimized for modern devices with notches (iPhone X+).
 
-## 📸 Screenshots
 
-| Start Screen | Game Screen | Game Over |
-|:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400?text=Start" width="200"> | <img src="https://via.placeholder.com/200x400?text=Game" width="200"> | <img src="https://via.placeholder.com/200x400?text=Over" width="200"> |
-
-> *Note: Screenshots will be added soon.*
 
 ## 🛠️ Tech Stack & Key Concepts
 
